@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "name": "Tidy up tee",
+      "img": "figma-store_design-in-bloom-tee.jpg",
+      "desc": "100% cotton, unisex sizing. Printed with puff ink on a Comfort Colors tee.",
+      "slogan": "We raided the arts and crafts box to raise the bar (and the ink) on this blossoming tee.",
+      "price": "300",
+      "id": "1"
+    },
+    {
+      "name": "Design in bloom tee",
+      "img": "figma-store_framework-tee.jpg",
+      "desc": "100% polyester, unisex sizing. Printed on a New Era jacket.",
+      "slogan": "We raided the arts and crafts box to raise the bar (and the ink) on this blossoming tee.",
+      "price": "100",
+      "id": "2"
+    },
+    {
+      "name": "Framework tee",
+      "img": "figma-store_tidy-up-tee.jpg",
+      "desc": "75% Cotton, 21% Nylon, 4% Lycra. Unisex.",
+      "slogan": "We raided the arts and crafts box to raise the bar (and the ink) on this blossoming tee.",
+      "price": "85",
+      "id": "3"
+    },
+    {
+      "name": "Logo hat",
+      "img": "Figma-Store-414-Edit.jpg",
+      "desc": "Adjustable fit, fabric strap with a brass metal clasp. Dad hat style. One size fits most",
+      "slogan": "If only there was a Tidy Up button for our lives…sigh.",
+      "price": "30",
+      "id": "4"
+    },
+    {
+      "name": "Band together socks",
+      "img": "figma-store_band-together-socks.jpg",
+      "desc": "75% Cotton, 21% Nylon, 4% Lycra. Unisex.",
+      "slogan": "We raided the arts and crafts box to raise the bar (and the ink) on this blossoming tee.",
+      "price": "7",
+      "id": "5"
+    },
+    {
+      "name": "On brand hat",
+      "img": "figma-store_on-brand-hat.jpg",
+      "desc": "Felt logo patch. Adjustable fit, fabric strap with a brass metal clasp. One size fits most.",
+      "slogan": "If you’re working in Figma and need a thinking cap, we’ve got you covered.",
+      "price": "70",
+      "id": "6"
+    },
+    {
+      "name": "Shape up tee",
+      "img": "figma-store_shape-up-tee.jpg",
+      "desc": "100% cotton, unisex sizing. Printed on a Comfort Colors tee.",
+      "slogan": "We raided the arts and crafts box to raise the bar (and the ink) on this blossoming tee.",
+      "price": "170",
+      "id": "7"
+    },
+    {
+      "name": "Bezier water bottle",
+      "img": "Figma-Store-630.jpg",
+      "desc": "Made from Eastman Tritan™ copolyester, BPA free. 32 oz, narrow mouth Nalgene bottle.",
+      "slogan": "The constraints don’t lie. Fill container to stay hydrated.",
+      "price": "47",
+      "id": "8"
+    }
+  ]
+}

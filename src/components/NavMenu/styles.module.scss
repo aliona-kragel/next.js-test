@@ -1,0 +1,14 @@
+.nav {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  column-gap: 30px;
+  background: lightgray;
+  &__link {
+    padding: 20px 20px 10px;
+  }
+  .active{
+    box-shadow: 1px -5px 0px -1px green inset;
+    transition: all 0.3s ease-in-out;
+  }
+}
